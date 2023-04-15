@@ -1,0 +1,11 @@
+﻿  Server_main_TCP.cpp
+C:\Users\qwe35\Desktop\Degul\Server\Client.h(34,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\MainBufControl.h(179,27): warning C4267: '+=': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\MainBufControl.h(211,24): warning C4267: '+=': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\Update.h(21,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\Update.h(22,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\Update.h(53,72): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qwe35\Desktop\Degul\Server\Update.h(225,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\Server_main_TCP.cpp(121,12): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwe35\Desktop\Degul\Server\Server_main_TCP.cpp(125,19): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Server.vcxproj -> C:\Users\qwe35\Desktop\Degul\Degul\x64\Debug\Server.exe
