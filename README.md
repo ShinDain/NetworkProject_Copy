@@ -1,3 +1,7 @@
+![12312414](https://github.com/ShinDain/NetworkProject_Copy/assets/34495918/7952e92a-7265-4e2c-8d15-40c5567bf16a)
+
+### 영상 링크
+https://youtu.be/2oAmAUjRp-0
 
 ### 보고서 링크
 
